@@ -3,6 +3,7 @@
 **Faculté des Sciences et Techniques de Settat, Université Hassan Ier**
 **Module : Cloud Computing et DevOps**
 **Public : étudiants de Licence ou de Master en informatique (niveau débutant)**
+**Professeur : ABASSI Abdelfattah**
 
 ---
 
